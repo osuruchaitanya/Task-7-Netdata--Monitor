@@ -65,7 +65,8 @@ Found log files like access.log, collector.log, error.log, daemon.log.
 ![netdata monitor](screenshot-1.png)
 ### screenshot of netdata cpu 
 ![netdata monitor](screenshot-2.png)
-
+### screenshot of memory 
+ ![netdata monitor](screenshot-3.png)
 ---
 
 🎯 Outcome
