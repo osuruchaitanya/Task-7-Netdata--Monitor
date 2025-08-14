@@ -61,8 +61,8 @@ Found log files like access.log, collector.log, error.log, daemon.log.
 
 📷 Deliverable
 
-Screenshot of the Netdata Dashboard with running metrics (attached in this repo).
-
+#### Screenshot of the Netdata Dashboard
+![netdata monitor](screenshot-1.png)
 
 
 ---
